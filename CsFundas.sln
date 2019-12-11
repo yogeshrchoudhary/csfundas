@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling", "EnergyBilling\EnergyBilling.csproj", "{0D1DB20C-6C89-4CA6-BA51-6120678DD33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBillingConsumer", "EnergyBillingConsumer\EnergyBillingConsumer.csproj", "{27CFCFAD-798B-4F1C-AA32-6A23A8934A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1DB20C-6C89-4CA6-BA51-6120678DD33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1DB20C-6C89-4CA6-BA51-6120678DD33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1DB20C-6C89-4CA6-BA51-6120678DD33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1DB20C-6C89-4CA6-BA51-6120678DD33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CFCFAD-798B-4F1C-AA32-6A23A8934A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CFCFAD-798B-4F1C-AA32-6A23A8934A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CFCFAD-798B-4F1C-AA32-6A23A8934A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CFCFAD-798B-4F1C-AA32-6A23A8934A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A690AB-7A1A-492F-874B-A01EAEFFB211}
+	EndGlobalSection
+EndGlobal

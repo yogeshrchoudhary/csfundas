@@ -1,0 +1,9 @@
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\bin\Debug\EnergyBillingConsumer.exe.config
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\bin\Debug\EnergyBillingConsumer.exe
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\bin\Debug\EnergyBillingConsumer.pdb
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\bin\Debug\EnergyBilling.dll
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\bin\Debug\EnergyBilling.pdb
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\obj\Debug\EnergyBillingConsumer.csprojAssemblyReference.cache
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\obj\Debug\EnergyBillingConsumer.csproj.CopyComplete
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\obj\Debug\EnergyBillingConsumer.exe
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBillingConsumer\obj\Debug\EnergyBillingConsumer.pdb

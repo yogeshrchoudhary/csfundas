@@ -1,0 +1,5 @@
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBilling\obj\Debug\EnergyBilling.csprojAssemblyReference.cache
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBilling\bin\Debug\EnergyBilling.dll
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBilling\bin\Debug\EnergyBilling.pdb
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBilling\obj\Debug\EnergyBilling.dll
+C:\Yogesh\training\c-sharp fundamentals\CsFundas\EnergyBilling\obj\Debug\EnergyBilling.pdb
